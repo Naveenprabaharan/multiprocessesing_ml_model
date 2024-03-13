@@ -1,0 +1,4 @@
+numpy==1.24.3
+opencv_python==4.9.0.80
+tensorflow==2.13.1
+tensorflow_object_detection_api==0.1.1
